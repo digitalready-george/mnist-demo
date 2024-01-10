@@ -5,3 +5,5 @@ This code is based off Michael Nielsen's free book, "Neural Networks and Deep Le
 Support his work here: http://neuralnetworksanddeeplearning.com/index.html
 
 To experiment with neural networks, change the network and training parameters in `demo.py`.
+
+Run `demo.py` in a Python IDE to see the training results outputted to the console.
