@@ -1,2 +1,5 @@
 # mnist-demo
 A demo of training a simple neural network to recognize handwritten digits from the MNIST dataset.
+
+This code is based off Michael Nielsen's free book, "Neural Networks and Deep Learning".
+Support his work here: http://neuralnetworksanddeeplearning.com/index.html
